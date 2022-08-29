@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6b0b474-4471-48fa-a571-47305aaef13f" name="Changes" comment="" />
+    <list default="true" id="c6b0b474-4471-48fa-a571-47305aaef13f" name="Changes" comment="create skeleton files" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +37,14 @@
       <option name="presentableId" value="Default" />
       <updated>1661755866707</updated>
     </task>
+    <task id="LOCAL-00001" summary="create skeleton files">
+      <created>1661756257341</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661756257341</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -46,5 +57,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="create skeleton files" />
+    <option name="LAST_COMMIT_MESSAGE" value="create skeleton files" />
   </component>
 </project>
